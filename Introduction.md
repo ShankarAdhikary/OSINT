@@ -17,11 +17,11 @@ This involves embedding geographical location data within digital content, espec
 # Use of OSINT Techniques by Attackers and Defenders
 OSINT (Open Source Intelligence) can be a powerful tool for both attackers and defenders, but they use it for very different purposes.
 
-# Use of OSINT by Attackers
+### Use of OSINT by Attackers
 Attackers use OSINT for reconnaissance or footprinting to gather intelligence before launching cyberattacks.
 They perform employee profiling by collecting details like names, emails and job roles from platforms such as LinkedIn or company websites.
 This information is used to create targeted phishing or spear-phishing attacks.
-# Use of OSINT by Defenders
+### Use of OSINT by Defenders
 Defenders use OSINT to identify, monitor and reduce their organization’s digital exposure online.
 It supports threat hunting, risk assessment, vulnerability management and incident response.
 It helps detect phishing attempts and identify fake or lookalike domains before they can be exploited.
